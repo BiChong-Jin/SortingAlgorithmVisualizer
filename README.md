@@ -1,3 +1,3 @@
 # SortingAlgorithmVisualizer
-Created by python;
+Created with python;
 Created the UI by using Pygame.
